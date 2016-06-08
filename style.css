@@ -4,3 +4,16 @@
 	padding: 100px;
 	height: 90vh;
 }
+
+ul.footernav li a {
+	color: #fed313;
+}
+
+ul.footernav li a:hover {
+	color: #fed313;
+	text-decoration: underline;
+	-moz-text-decoration-style: dotted; 
+}
+
+
+a { color: #fed313; }
