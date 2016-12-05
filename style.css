@@ -17,3 +17,11 @@ ul.footernav li a:hover {
 
 
 a { color: #fed313; }
+
+
+strong.bank {
+	font-size: 2em; font-weight: bold; 
+	color: orange;
+	
+}
+
