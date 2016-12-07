@@ -5,6 +5,13 @@
 	height: 90vh;
 }
 
+.mainbody2 {
+	background-color: #56565a;
+	color: #fff;
+	padding: 100px;
+	height: auto;
+}
+
 ul.footernav li a {
 	color: #fed313;
 }
